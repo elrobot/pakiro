@@ -1,0 +1,11 @@
+Pakiro is a fun experiment to learn about kinect and roomba hacking using an ARM based brain.
+
+We don't know where this will take us, the first step is reproducing the KinectBot experiment[1] and document it along the way.
+
+The main architecture will be:
+
+# Robot brains: Panda Board - http://pandaboard.org/ $174 (ARM A9 1GHz, 1GB DDR2 Ram, Running Ubuntu Linux)
+# Main Sensor: Microsoft Kinect $150
+# Robot body: iRobot Create $130
+
+[1] http://www.youtube.com/watch?v=2Gp3E7IwLRQ
